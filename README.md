@@ -1,6 +1,6 @@
 # MVP Sprint - Análise de Dados e Boas Práticas
 
-Este projeto MVP foi desenvolvido como parte da pós-graduação em Análise de Dados e Analytics, ministrada pela PUC-RJ.
+Este projeto foi desenvolvido para entrega de MVP do sprint "Análise de Dados e Boas Práticas" para pós-graduação em Análise de Dados e Analytics, ministrada pela PUC-RJ.
 
 O objetivo do trabalho é analisar padrões de comportamento de consumo dos clientes da Starbucks a partir de um dataset disponibilizado no Kaggle, explorando relações entre variáveis e validando as hipóteses definidas.
 
@@ -29,9 +29,6 @@ O dataset reúne informações como:
 - características das compras  
 - quantidade de itens por carrinho  
 
-## 🎯 Objetivo
-
-Investigar como diferentes fatores influenciam o comportamento de consumo dos clientes da Starbucks.
 
 ## 🧠 Hipóteses analisadas
 
