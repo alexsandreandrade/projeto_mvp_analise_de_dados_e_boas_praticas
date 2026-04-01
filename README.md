@@ -59,11 +59,12 @@ O trabalho foi feito seguindo as etapas de análise exploratória de dados:
 - O canal de atendimento mostrou influência no valor dos pedidos, com destaque para o Mobile App.  
 - Clientes mais frequentes não gastam mais por pedido, mas acumulam maior consumo ao longo do tempo.  
 
+
 ## ⚙️ Tecnologias utilizadas
 
 - Python  
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Google Colab  
+- Google Colab 
 
