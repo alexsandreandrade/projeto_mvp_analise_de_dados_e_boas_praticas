@@ -1,10 +1,14 @@
-# Análise de Dados e boas práticas
+# MVP Sprint - Análise de Dados e boas práticas
 
 Este projeto MVP foi desenvolvido para pós-graduação em Análise de Dados e Analytics.
 
-O objetivo é analisar padrões de comportamento de consumo dos clientes da Starbucks a partir de um dataset disponível no Kaggle, explorando relações entre diferentes variáveis e validando hipóteses definidas no início do estudo.
+O objetivo é analisar padrões de comportamento de consumo dos clientes da Starbucks a partir de um dataset disponibilizado no Kaggle, explorando relações entre diferentes variáveis e validando hipóteses definidas.
 
----
+## ▶️ Como executar
+
+1. Abra o notebook no Google Colab https://colab.research.google.com/drive/1JIT-QhKflTBQWIcx0SjMMYDiE0J9eg_X#scrollTo=VU1Qruh5iklO 
+2. Execute todas as células
+
 
 ## 📊 Dataset
 
@@ -21,12 +25,10 @@ O dataset contém informações sobre:
 - perfil dos clientes
 
 
-
 ## 🎯 Objetivo
 
 Investigar como diferentes fatores influenciam o comportamento de consumo.
 
----
 
 ## 🧠 Hipóteses analisadas
 
@@ -36,7 +38,6 @@ Investigar como diferentes fatores influenciam o comportamento de consumo.
 
 3. Clientes que realizam pedidos com maior frequência tendem a apresentar maior valor médio por pedido.
 
----
 
 ## 🔎 Etapas do projeto
 
@@ -66,13 +67,8 @@ O trabalho foi desenvolvido seguindo as etapas de análise exploratória de dado
 - Python  
 - Google Colab  
 
-## ▶️ Como executar
-
-1. Abra o notebook no Google Colab no link disponibilizado
-2. Execute todas as células
-
-
 ## 👤 Autor
 
 Alesandre José Sá Barreto de Andrade
+
 Matrícula: 4052025002499
