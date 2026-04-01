@@ -4,6 +4,13 @@ Este projeto MVP foi desenvolvido para pós-graduação em Análise de Dados e A
 
 O objetivo é analisar padrões de comportamento de consumo dos clientes da Starbucks a partir de um dataset disponibilizado no Kaggle, explorando relações entre diferentes variáveis e validando hipóteses definidas.
 
+
+## 👤 Autor
+
+Alesandre José Sá Barreto de Andrade
+Matrícula: 4052025002499
+
+
 ## ▶️ Como executar
 
 1. Abra o notebook no Google Colab https://colab.research.google.com/drive/1JIT-QhKflTBQWIcx0SjMMYDiE0J9eg_X#scrollTo=VU1Qruh5iklO 
@@ -67,8 +74,3 @@ O trabalho foi desenvolvido seguindo as etapas de análise exploratória de dado
 - Python  
 - Google Colab  
 
-## 👤 Autor
-
-Alesandre José Sá Barreto de Andrade
-
-Matrícula: 4052025002499
