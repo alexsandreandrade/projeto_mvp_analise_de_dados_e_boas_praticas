@@ -1,13 +1,16 @@
 # MVP Sprint - Análise de Dados e Boas Práticas
 
-Este projeto foi desenvolvido para entrega de MVP do sprint "Análise de Dados e Boas Práticas" para pós-graduação em Análise de Dados e Analytics, ministrada pela PUC-RJ.
-
-O objetivo do trabalho é analisar padrões de comportamento de consumo dos clientes da Starbucks explorando relações entre variáveis e validando as hipóteses definidas.
 
 ## 👤 Autor
 
 Alesandre José Sá Barreto de Andrade  
 Matrícula: 4052025002499
+
+
+## 🎯 Objetivo
+Este projeto foi desenvolvido para entrega de MVP do sprint "Análise de Dados e Boas Práticas" para pós-graduação em Análise de Dados e Analytics, ministrada pela PUC-RJ.
+
+O objetivo do trabalho é analisar padrões de comportamento de consumo dos clientes da Starbucks explorando relações entre variáveis e validando as hipóteses definidas.
 
 ## ▶️ Como executar
 
