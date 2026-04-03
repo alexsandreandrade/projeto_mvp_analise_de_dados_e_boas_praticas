@@ -61,8 +61,8 @@ O trabalho foi feito seguindo as etapas de análise exploratória de dados:
 
 ## 📁 Arquivos disponíveis no repositório
 
-starbucks_customer_ordering_patterns.csv — dataset original obtido no Kaggle
-starbucks_processado.csv — dataset com as variáveis derivadas criadas durante a análise
+- starbucks_customer_ordering_patterns.csv — dataset original obtido no Kaggle
+- starbucks_processado.csv — dataset com as variáveis derivadas criadas durante a análise
 
 ## ⚙️ Tecnologias utilizadas
 
