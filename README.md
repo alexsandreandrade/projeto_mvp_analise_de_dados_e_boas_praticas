@@ -10,13 +10,13 @@ Matrícula: 4052025002499
 ## 🎯 Objetivo
 Este projeto foi desenvolvido para entrega de MVP do sprint "Análise de Dados e Boas Práticas" para pós-graduação em Análise de Dados e Analytics, ministrada pela PUC-RJ.
 
-O objetivo do trabalho é analisar padrões de comportamento de consumo dos clientes da Starbucks explorando relações entre variáveis e validando as hipóteses definidas.
+O objetivo é analisar padrões de comportamento de consumo dos clientes da Starbucks, investigando quais fatores influenciam o valor dos pedidos e respondendo às hipóteses levantadas ao longo do trabalho.
 
 ## ▶️ Como executar
 
 1. Abra o notebook no Google Colab pelo link abaixo:  
    https://colab.research.google.com/drive/1JIT-QhKflTBQWIcx0SjMMYDiE0J9eg_X#scrollTo=VU1Qruh5iklO
-2. Execute todas as células.
+2. Basta executar todas as células em ordem.
 
 ## 📊 Dataset
 
@@ -59,6 +59,10 @@ O trabalho foi feito seguindo as etapas de análise exploratória de dados:
 - O canal de atendimento mostrou influência no valor dos pedidos, com destaque para o Mobile App.  
 - Clientes mais frequentes não gastam mais por pedido, mas acumulam maior consumo ao longo do tempo.  
 
+📁 Arquivos disponíveis no repositório
+
+starbucks_customer_ordering_patterns.csv — dataset original obtido no Kaggle
+starbucks_processado.csv — dataset com as variáveis derivadas criadas durante a análise
 
 ## ⚙️ Tecnologias utilizadas
 
