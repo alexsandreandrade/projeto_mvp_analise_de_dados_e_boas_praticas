@@ -59,7 +59,7 @@ O trabalho foi feito seguindo as etapas de análise exploratória de dados:
 - O canal de atendimento mostrou influência no valor dos pedidos, com destaque para o Mobile App.  
 - Clientes mais frequentes não gastam mais por pedido, mas acumulam maior consumo ao longo do tempo.  
 
-📁 Arquivos disponíveis no repositório
+## 📁 Arquivos disponíveis no repositório
 
 starbucks_customer_ordering_patterns.csv — dataset original obtido no Kaggle
 starbucks_processado.csv — dataset com as variáveis derivadas criadas durante a análise
