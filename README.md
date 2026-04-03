@@ -15,10 +15,12 @@ O objetivo é analisar padrões de comportamento de consumo dos clientes da Star
 ## ▶️ Como executar
 
 1. Abrar o arquivo "Sprint_Análise_de_Dados_e_Boas_Práticas.ipynp" diretamenete na raiz desse repositório.
+   
 OU
-2. Abra o notebook no Google Colab pelo link abaixo:  
+
+3. Abra o notebook no Google Colab pelo link abaixo:  
    https://colab.research.google.com/drive/1JIT-QhKflTBQWIcx0SjMMYDiE0J9eg_X#scrollTo=VU1Qruh5iklO
-3. Basta executar todas as células em ordem.
+4. Basta executar todas as células em ordem.
 
 
 
