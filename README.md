@@ -10,7 +10,7 @@ Matrícula: 4052025002499
 ## 🎯 Objetivo
 Este projeto foi desenvolvido para entrega de MVP do sprint "Análise de Dados e Boas Práticas" para pós-graduação em Análise de Dados e Analytics, ministrada pela PUC-RJ.
 
-O objetivo é analisar padrões de comportamento de consumo dos clientes da Starbucks, investigando quais fatores influenciam o valor dos pedidos e respondendo às hipóteses levantadas ao longo do trabalho.
+O objetivo é analisar padrões de comportamento de consumo dos clientes da Starbucks, investigando as relações entre as variáveis disponíveis e respondendo às hipóteses levantadas ao longo do trabalho.
 
 ## ▶️ Como executar
 
